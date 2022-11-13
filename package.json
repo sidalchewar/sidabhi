@@ -1,0 +1,24 @@
+{
+  "name": "sidbhi",
+  "version": "1.0.0",
+  "description": "Simple Node JS Express Web Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidalchewar/sidabhi.git"
+  },
+  "author": "Ravi Tambade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidalchewar/sidabhi/issues"
+  },
+  "homepage": "https://github.com/sidalchewar/sidabhi#readme",
+  "dependencies": {
+    "expess": "0.0.1-security",
+    "express": "^4.17.3"
+  }
+}
